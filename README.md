@@ -9,7 +9,7 @@ The contest was hosted by e-Yantra, IIT Bombay. As the first round of the compet
 
 700/1000
 
-![]()
+![](https://github.com/TejasARathod/PYTHON_LUA_TEST_EYRC-2020/blob/84f03dcdda7c7e2106e039b6896634f38bb3f75c/Screenshot%20.png)
 
 
 
